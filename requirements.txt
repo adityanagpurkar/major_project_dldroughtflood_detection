@@ -1,0 +1,16 @@
+earthengine-api
+geemap
+imdlib
+pandas
+xarray
+torch
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
+twilio
+python-dotenv
+streamlit
+folium
+streamlit-folium
