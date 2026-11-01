@@ -1,10 +1,10 @@
-# VidarbhaDrought&FloodPredictionV1 (Phase 2) 🛰️🌧️🔥
+# VidarbhaDrought&FloodPredictionV1 (Phase 2) 
 
 **VidarbhaDrought&FloodPredictionV1** is an AI, Remote Sensing, and GIS early warning system designed for flood and drought hazard prediction across the **11 districts and all localized talukas / sub-regions** of the Vidarbha region, Maharashtra, India.
 
 ---
 
-## 🌟 What's New in Phase 2
+##  What's New in Phase 2
 
 1. **Sub-District & Taluka Level Localization**:
    - Micro-region granular mapping across all **100+ talukas** in Vidarbha.
@@ -16,11 +16,11 @@
 
 3. **Dynamic GIS Thermal Heatmap & Hotspot Visualization**:
    - **LST Thermal Gradient Heatmap**: Visualizes surface thermal stress from cooler riparian zones (<30°C) to extreme heat stress zones (>44°C).
-   - **Automated Hotspot Tagging**: Identifies and flags **🌊 Flood Hotspots** (saturated river valleys) and **🔥 Drought Hotspots** (high LST + vegetation stress).
+   - **Automated Hotspot Tagging**: Identifies and flags ** Flood Hotspots** (saturated river valleys) and ** Drought Hotspots** (high LST + vegetation stress).
 
 ---
 
-## 🗺️ Monitored Districts and Localized Talukas
+##  Monitored Districts and Localized Talukas
 
 - **Nagpur**: Nagpur Urban, Nagpur Rural, Katol, Saoner, Ramtek, Hingna, Umred, Narkhed, Kamptee, Parseoni, Mouda, Bhiwapur, Kuhi
 - **Amravati**: Amravati, Achalpur, Chandur Bazar, Morshi, Warud, Daryapur, Anjangaon Surji, Dharni (Melghat), Chikhaldara, Nandgaon Khandeshwar, Chandur Railway, Dhamangaon Railway, Tiwsa, Bhatkuli
@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Run the Backend API
 ```bash
@@ -52,7 +52,7 @@ Dashboard URL: `http://localhost:8501`
 
 ---
 
-## 📊 Model Architecture
+##  Model Architecture
 
 ```
          14-Day Sequential Input: [Precipitation, NDVI, NDWI, LST (°C)]
